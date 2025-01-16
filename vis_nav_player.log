@@ -1,0 +1,16 @@
+15-Dec-24 16:52:57 - INFO: player.py is using vis_nav_game 1.2.1
+15-Dec-24 16:52:59 - INFO: vis_nav_game.core version=1.2.1
+15-Dec-24 16:52:59 - INFO: init from C:\Desktop\NYU\3rd_sem\Perception\final\Finalfinal\veryfinal\FINAL\startup.json: {'ESSENTIAL_FILE_ID': '1CvIOxnKO8Z8NDBh-kKOpUuWEgPinLLSV', 'MAZE_FILE_ID': '1QmJ6n1U95Xj7BuAglXrTPESxg-GMog-x', 'MAZE_FILE_MD5_KEY': 'fefc780e72877c9aafb5f26043cefaf6'}
+15-Dec-24 16:52:59 - INFO: Pass checking essential files
+15-Dec-24 16:52:59 - INFO: Verified C:\Desktop\NYU\3rd_sem\Perception\final\Finalfinal\veryfinal\FINAL\data\maze.json
+15-Dec-24 16:52:59 - INFO: Start loading the map
+15-Dec-24 16:52:59 - INFO: Init rules from {'NAV_START_TIME': 1733587500.0, 'NOISY_MOTION': 1}
+15-Dec-24 16:52:59 - INFO: NAV_START_TIME set to 2024/12/07 11:05:00
+15-Dec-24 16:52:59 - INFO: System time=1734299579.5976427, Internet time=1734299580.015295, diff=0.4176523685455322
+15-Dec-24 16:52:59 - INFO: NOISY_MOTION set to 1
+15-Dec-24 16:52:59 - INFO: Loaded rules for competition!
+15-Dec-24 16:53:07 - INFO: Finished loading the map: takes 8.01514744758606 s
+15-Dec-24 16:53:09 - INFO: Target Images processing completed.
+15-Dec-24 16:53:09 - INFO: EXPLORATION phase passed. Proceeding to NAVIGATION phase.
+15-Dec-24 16:53:19 - INFO: Saving the game, please wait...
+15-Dec-24 16:53:19 - INFO: Game saved successfully at C:\Desktop\NYU\3rd_sem\Perception\final\Finalfinal\veryfinal\FINAL\data\save\game-20241215-165319.npy.
